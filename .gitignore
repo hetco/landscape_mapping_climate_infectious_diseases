@@ -1,0 +1,10 @@
+*.pyc
+*config_test.json
+*local_config.json
+*orgs_with*
+*lookup*
+*.DS_store*
+*.csv
+*browser_data*
+*paper.json
+*papers*.json*
